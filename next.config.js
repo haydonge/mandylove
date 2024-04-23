@@ -40,7 +40,8 @@ module.exports = withBundleAnalyzer({
       'images.unsplash.com',
       'source.unsplash.com',
       'p1.qhimg.com',
-      'webmention.io'
+      'webmention.io',
+      'pub-6d990cc4e86d4f22a39efdb1e9103131.r2.dev'’
     ]
   },
   // 默认将feed重定向至 /public/rss/feed.xml
